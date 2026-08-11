@@ -1,0 +1,18 @@
+ARCHIVOS NECESARIOS EN ESTA CARPETA
+====================================
+
+logo.png
+  - Logo oficial de Night Sound
+  - Tamanio recomendado: 400x400px
+  - Formato: PNG con fondo transparente
+  - Se muestra en un circulo de 100x100px
+
+og-image.jpg
+  - Imagen de preview para redes sociales (Open Graph)
+  - Tamanio recomendado: 1200x630px
+  - Formato: JPG
+  - Aparece cuando alguien comparte el link en WhatsApp, Facebook, etc.
+
+Mientras no existan estos archivos:
+  - El logo mostrara el placeholder "NS"
+  - El Open Graph no tendra imagen de preview
