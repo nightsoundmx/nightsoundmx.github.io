@@ -2,7 +2,7 @@
   "name": "Night Sound",
   "short_name": "Night Sound",
   "description": "Banda versátil de Nogales, Sonora. Música en vivo para eventos, bares, restaurantes y celebraciones.",
-  "start_url": "/nightsound-biolinks/",
+  "start_url": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#080808",
