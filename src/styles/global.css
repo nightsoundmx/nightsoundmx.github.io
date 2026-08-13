@@ -203,7 +203,9 @@ a {
   align-items: center;
   gap: 14px;
   padding: 15px 18px;
-  background: var(--color-surface);
+  background: rgba(17, 17, 17, 0.75);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   color: var(--color-primary);
@@ -236,7 +238,7 @@ a {
 }
 
 .social-btn:hover {
-  background: var(--color-surface-hover);
+  background: rgba(26, 26, 26, 0.85);
   border-color: rgba(212, 175, 55, 0.22);
   transform: translateY(-2px);
   box-shadow:
