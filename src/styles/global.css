@@ -91,7 +91,7 @@ a {
 .video-bg__overlay {
   position: absolute;
   inset: 0;
-  background: rgba(8, 8, 8, 0.72);
+  background: rgba(8, 8, 8, 0.82);
 }
 
 /* ===== Layout ===== */
