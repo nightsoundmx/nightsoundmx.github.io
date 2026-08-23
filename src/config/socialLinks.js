@@ -3,7 +3,7 @@ export const bandConfig = {
   tagline: 'Rock • Pop • Música en Vivo',
   description:
     'Banda versátil de Nogales, Sonora. Música en vivo para eventos, bares, restaurantes y celebraciones.',
-  logo: 'assets/logo.png',
+  logo: 'assets/logo.webp',
 
   links: [
     {
