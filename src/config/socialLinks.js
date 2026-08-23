@@ -42,6 +42,13 @@ export const bandConfig = {
       type: 'music',
     },
     {
+      id: 'repertorio',
+      name: 'Ver Repertorio',
+      url: 'https://docs.google.com/spreadsheets/d/1Lu37E9TZ8OLMbGJrJSdPN9ud_Hi6v5KXOg4Bo6YqPew/edit?usp=sharing',
+      icon: 'drive',
+      type: 'contact',
+    },
+    {
       id: 'whatsapp',
       name: 'Contrataciones por WhatsApp',
       url: 'https://wa.me/5210000000000',
