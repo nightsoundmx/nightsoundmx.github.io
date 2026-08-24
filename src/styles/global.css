@@ -80,6 +80,7 @@ a {
   inset: 0;
   z-index: 0;
   overflow: hidden;
+  background: radial-gradient(ellipse at 60% 20%, #1a0a2e 0%, #080808 60%);
 }
 
 .video-bg__video {
