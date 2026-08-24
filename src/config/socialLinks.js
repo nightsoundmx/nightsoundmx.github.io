@@ -44,7 +44,7 @@ export const bandConfig = {
     {
       id: 'repertorio',
       name: 'Ver Repertorio',
-      url: 'https://docs.google.com/spreadsheets/d/1Lu37E9TZ8OLMbGJrJSdPN9ud_Hi6v5KXOg4Bo6YqPew/edit?usp=sharing',
+      url: 'https://docs.google.com/spreadsheets/d/1T8rgOJ59hA7P2AInaoC8DnXChuWI1BPy7MqwGJCB7OQ/edit?usp=sharing',
       icon: 'drive',
       type: 'contact',
     },
